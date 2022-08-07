@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Problem Solving**
 
-- 📫 How to reach me **alamin496832@gmail.cmom**
+- 📫 How to reach me **alamin496832@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
