@@ -1,4 +1,5 @@
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg"/>
+
 <h1 align="center">Hi 👋, I'm Al-Amin</h1>
 <h3 align="center">I'm Studying in CSE</h3>
 
