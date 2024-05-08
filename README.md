@@ -1,4 +1,4 @@
-<img  alt="Coding" width="400" src="https://i.ibb.co/JF7hXmF/Blue-Modern-Digital-Marketing-Facebook-Cover.png"/>
+<img  alt="Coding"  src="https://i.ibb.co/JF7hXmF/Blue-Modern-Digital-Marketing-Facebook-Cover.png"/>
 
 <h1 align="center">Hi 👋, I'm Al-Amin</h1>
 <h3 align="center">I'm Studying in CSE</h3>
