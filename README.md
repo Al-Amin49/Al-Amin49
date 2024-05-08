@@ -2,6 +2,7 @@
 <h3 align="center">I'm Studying in CSE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=al-amin49&label=Profile%20views&color=0e75b6&style=flat" alt="al-amin49" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
 
 - 🔭 I’m currently working on **NodeJs, TypeScript**
 
