@@ -16,6 +16,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Simple Guide to Seo For Your Application](https://dev.to/alamin49/mastering-map-filter-and-reduce-2nep)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
