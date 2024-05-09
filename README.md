@@ -7,6 +7,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Al-Amin49)](https://git.io/streak-stats)
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Al-Amin49" alt="GitHub Streak" /></a>
+
 - 🔭 I’m currently working on **NodeJs, TypeScript**
 
 - 🌱 I’m currently learning **MERN STACK**
