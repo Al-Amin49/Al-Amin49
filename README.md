@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=al-amin49&label=Profile%20views&color=0e75b6&style=flat" alt="al-amin49" /> </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Al-Amin49)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on **NodeJs, TypeScript**
 
