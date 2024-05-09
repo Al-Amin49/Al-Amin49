@@ -14,11 +14,6 @@
 
 - 📫 How to reach me **alamin496832@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [The Simple Guide to Seo For Your Application](https://dev.to/alamin49/mastering-map-filter-and-reduce-2nep)
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/alamin49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alamin49" height="30" width="40" /></a>
@@ -27,6 +22,11 @@
 <a href="https://fb.com/alamin.ahmed.1481169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alamin.ahmed.1481169" height="30" width="40" /></a>
 <a href="https://instagram.com/alamin_ahmed49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alamin_ahmed49" height="30" width="40" /></a>
 </p>
+
+### Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Unlocking the Power of Map, Filter, and Reduce in JavaScript](https://dev.to/alamin49/mastering-map-filter-and-reduce-2nep)
+<!-- BLOG-POST-LIST:END -->
 <h2>📈Stats</h2>
 
 
