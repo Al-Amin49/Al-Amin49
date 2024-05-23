@@ -1,4 +1,4 @@
-<img  alt="Coding" width="500"   src="https://i.ibb.co/JF7hXmF/Blue-Modern-Digital-Marketing-Facebook-Cover.png"/>
+<img  alt="Coding" src="https://i.ibb.co/JF7hXmF/Blue-Modern-Digital-Marketing-Facebook-Cover.png"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=al-amin49&label=Profile%20views&color=0e75b6&style=flat" alt="al-amin49" /> </p>
 
 <h4 style="color: #333;">I am Al-Amin, a recent graduate with a degree in Computer Science and Engineering (CSE). I have a keen interest in web technologies, particularly in the MERN (MongoDB, Express.js, React.js, Node.js) stack. I enjoy solving problems using these technologies and have a passion for creating beautiful user interfaces (UI).</h4>
