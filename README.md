@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Al-Amin</h1>
 
-<h3 align="center">AI/ML Research Aspirant | Software Engineer | QA Engineer</h3>
+<h3 align="center">QA Engineer | AI/ML Research Aspirant | Software Engineering Background</h3>
 
 <p align="center">
   <em>Exploring Machine Learning, Artificial Intelligence, Software Engineering & Research</em>
